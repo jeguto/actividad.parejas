@@ -3,3 +3,5 @@ COSITAS
 
 
 MODIFICADO POR ALEX DESDE LA RAMA MODIFICACIONALEX
+
+ahora no sale el conflicto
